@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1783450097|1327638176';
+const CACHE_VERSION = '1783450371|20044620';
 /** @type {string} */
 const CACHE_PREFIX = 'Aritmetia - SOS -sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
